@@ -365,7 +365,7 @@
   <form class="modal-content animate" action="/action_page.php">
   
     <div class="imgcontainer">
-      <img src="avatar.jpg" alt="Avatar" class="avatar">
+      <img src="../images/avatar.jpg" alt="Avatar" class="avatar">
     </div>
 
     <div class="container">
