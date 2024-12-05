@@ -3,8 +3,8 @@
 <head>
 	<title>project-Home Heaven Furniture</title>
 	<link href="bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
-	<link  href="new.css" rel="stylesheet" type="text/css">
-  <link  href="sign.css" rel="stylesheet" type="text/css">
+	<link  href="css/new.css" rel="stylesheet" type="text/css">
+  <link  href="css/sign.css" rel="stylesheet" type="text/css">
 </head>
 <body >
 
@@ -82,21 +82,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="Slide Show/7.jpg" class="d-block w-100" alt="...">
+      <img src="..images/Slide Show/7.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
          <h2 id="about" style="color:white;"><b>welcome to our furniture shop</b></h2>
         <p><b>Welcome to Home Heaven Furniture shop, your one-stop destination for stylish and affordable furniture designed to transform any space into a home. We offer a curated selection of high-quality pieces, from modern to classic styles, all crafted with sustainability in mind. Our easy-to-use platform provides a seamless shopping experience, allowing you to explore, visualize, and customize furniture for your space, with fast delivery and excellent customer service at every step. Let us help you create a home you love, effortlessly.</b></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="Slide Show/5.jpg" class="d-block w-100" alt="..." height="80%">
+      <img src="..images/Slide Show/5.jpg" class="d-block w-100" alt="..." height="80%">
       <div class="carousel-caption d-none d-md-block">
         <h1 class="slide" style="color:black;">Vision</h1>
         <p style="color:black;"><b>"To be the leading destination for stylish, sustainable, and affordable furniture, offering a seamless online shopping experience that empowers customers to create their ideal homes."</b></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="Slide Show/6.jpg" class="d-block w-100" alt="...">
+      <img src="..images/Slide Show/6.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h1 class="slide">Mission</h1>
         <p><b>"To provide high-quality, affordable furniture with a focus on sustainability, delivering exceptional customer service and a seamless online shopping experience."</b></p>
@@ -130,7 +130,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="New Arrival/Miyami-Sofa.jpg" class="card-img-top" alt="...">
+      <img src="..images/New Arrival/Miyami-Sofa.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Miami Sofa</b></h5>
         <p class="card-text">A pleasant sofa that brings simplicity to your living room. Beauty of the two tone touch and the ability to fit in to any limited spaced area provides great value with peace of mind.</p>
@@ -153,7 +153,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="New Arrival/bed.jpg" class="card-img-top" alt="...">
+      <img src="..images/New Arrival/bed.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Avron Bed</b></h5>
         <p class="card-text">Ideal creation for those who value simplicity. Solid wood frame with a neatly coloured finish will bring satisfaction at best.</p>
