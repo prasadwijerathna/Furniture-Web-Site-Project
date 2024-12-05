@@ -82,21 +82,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..images/Slide Show/7.jpg" class="d-block w-100" alt="...">
+      <img src="../images/Slide Show/7.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
          <h2 id="about" style="color:white;"><b>welcome to our furniture shop</b></h2>
         <p><b>Welcome to Home Heaven Furniture shop, your one-stop destination for stylish and affordable furniture designed to transform any space into a home. We offer a curated selection of high-quality pieces, from modern to classic styles, all crafted with sustainability in mind. Our easy-to-use platform provides a seamless shopping experience, allowing you to explore, visualize, and customize furniture for your space, with fast delivery and excellent customer service at every step. Let us help you create a home you love, effortlessly.</b></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..images/Slide Show/5.jpg" class="d-block w-100" alt="..." height="80%">
+      <img src="../images/Slide Show/5.jpg" class="d-block w-100" alt="..." height="80%">
       <div class="carousel-caption d-none d-md-block">
         <h1 class="slide" style="color:black;">Vision</h1>
         <p style="color:black;"><b>"To be the leading destination for stylish, sustainable, and affordable furniture, offering a seamless online shopping experience that empowers customers to create their ideal homes."</b></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..images/Slide Show/6.jpg" class="d-block w-100" alt="...">
+      <img src="../images/Slide Show/6.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h1 class="slide">Mission</h1>
         <p><b>"To provide high-quality, affordable furniture with a focus on sustainability, delivering exceptional customer service and a seamless online shopping experience."</b></p>
