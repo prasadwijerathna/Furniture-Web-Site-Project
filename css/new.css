@@ -1,0 +1,113 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	outline: none;
+	border: none;
+	text-decoration: none;
+	text-transform: capitalize;
+	transition: .2s linear;
+}
+
+body{
+	padding: 30px;
+}
+.row-x{
+	height: 100px;
+	background-color: black;
+}
+
+.header{
+	background: var(--bg);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1.5 rem 7%;
+	border-bottom: var(--border);
+	position: fixed;
+	top: 0;left: 0;right: 0;
+	z-index: 1000;
+}
+
+h1{
+	color: black;
+}
+
+img{
+	height: 25%;
+	width: 25%;
+}
+
+
+
+
+}/*welcome */
+.card{
+	height: 50px;
+	width:30%;
+
+}
+/*pizza photo*/
+.card-a{
+	height: 200px;
+	width: 400px;
+	align-items: center;
+
+}
+.but{
+	padding-left: 700px;
+}
+
+.card-b{
+	width: 200px;
+	height: 500px;
+	margin-left: 10px;
+}
+/*review card*/
+.card-c{
+	border-color: black;
+	height: 200px;
+	width:80%;
+	border-radius: 30px;
+	
+	padding-top: 5%;
+
+
+}
+
+.card-img-top{
+	transition: transform 0.2s;
+} 
+.card-img-top:hover{
+	transform:scale(1.10); 
+}
+
+h1{
+	font-family: poppins;
+}
+
+.slide{
+	color: white;
+}
+.card-d{
+	width: 30%;
+	height: 100px;
+}
+
+.card-x{
+	
+	height: 30rem;
+	width:18rem;
+}
+}
+.Customerreview{
+	
+	text-align: center;
+	color: black;
+}
+
+.reviewphoto{
+	height: 100px;
+	width: 100px;
+}
