@@ -130,7 +130,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="..images/New Arrival/Miyami-Sofa.jpg" class="card-img-top" alt="...">
+      <img src="../images/New Arrival/Miyami-Sofa.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Miami Sofa</b></h5>
         <p class="card-text">A pleasant sofa that brings simplicity to your living room. Beauty of the two tone touch and the ability to fit in to any limited spaced area provides great value with peace of mind.</p>
@@ -153,7 +153,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="..images/New Arrival/bed.jpg" class="card-img-top" alt="...">
+      <img src="../images/New Arrival/bed.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Avron Bed</b></h5>
         <p class="card-text">Ideal creation for those who value simplicity. Solid wood frame with a neatly coloured finish will bring satisfaction at best.</p>
@@ -176,7 +176,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="New Arrival/pearl.png" class="card-img-top" alt="...">
+      <img src="../images/New Arrival/pearl.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Pearl Dining Suite</b></h5>
         <p class="card-text">Pearl 5 piece dining suite crafted with treated wood for a solid output. Smooth finish of the beveled edge tabletop with sturdy legs brings out a satisfactory appeal. Sufficiently spaced fabric chairs with attractive wooden backrest patterns allows comfortable dining.</p>
@@ -200,7 +200,7 @@
  
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="New Arrival/harvard.jpg" class="card-img-top" alt="...">
+      <img src="../images/New Arrival/harvard.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Harvard Table</b></h5>
         <p class="card-text">A passion-driven masterpiece designed to bring an inspiring enhancement to your office interior. Smoothly beveled tabletop with spacious working pad and rich colour combination crafted using premium walnut veneer will bring utmost professionalism.The iconic foot design will further enrich the elegant appeal where the addition of the latest amenities and ample storage facilities will improve convenience.</p>
@@ -222,7 +222,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="New Arrival/pantry.jpg" class="card-img-top" alt="...">
+      <img src="../images/New Arrival/pantry.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Pantry Cupboard</b></h5>
         <p class="card-text">Introduce pure stylishness to your kitchen with Veyron pantry collection crafted from durable marine plywood. Admirable finish of the granite worktop with soft closing cupboards, drawers and lots of optional accessories will allow you to play around effortlessly. Addition of PVC skirting will act against floor contaminants. The collection can be tailor made to meet your heart’s desire.</p>
@@ -252,7 +252,7 @@
             <!-- Review 1 -->
             <div style="flex: 1; min-width: 300px; padding: 15px; background-color: #fff; border: 1px solid #ddd; border-radius: 8px;">
                 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-                    <img src="Review/chanaka.jpg" alt="User Photo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+                    <img src="../images/Review/chanaka.jpg" alt="User Photo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
                     <div>
                         <h3 style="margin: 0; color: #555;">Chanaka sampath</h3>
                         <p style="margin: 0; font-size: 0.9em; color: #888;">November 25, 2024</p>
@@ -266,7 +266,7 @@
             <!-- Review 2 -->
             <div style="flex: 1; min-width: 300px; padding: 15px; background-color: #fff; border: 1px solid #ddd; border-radius: 8px;">
                 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-                    <img src="Review/sanduni.jpg"alt="User Photo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+                    <img src="../images/Review/sanduni.jpg"alt="User Photo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
                     <div>
                         <h3 style="margin: 0; color: #555;">Saduni Gamage</h3>
                         <p style="margin: 0; font-size: 0.9em; color: #888;">February 23, 2024</p>
@@ -280,7 +280,7 @@
             <!-- Review 3 -->
             <div style="flex: 1; min-width: 300px; padding: 15px; background-color: #fff; border: 1px solid #ddd; border-radius: 8px;">
                 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-                    <img src="Review/gayan.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+                    <img src="../images/Review/gayan.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
                     <div>
                         <h3 style="margin: 0; color: #555;">Gayan Sandeepa</h3>
                         <p style="margin: 0; font-size: 0.9em; color: #888;">june 11, 2024</p>
