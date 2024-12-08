@@ -42,15 +42,15 @@
             Furniture
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="dining.html">Dining</a></li>
-            <li><a class="dropdown-item" href="officefurniture.html">Office Furniture</a></li>
+            <li><a class="dropdown-item" href="dining.php">Dining</a></li>
+            <li><a class="dropdown-item" href="officefurniture.php">Office Furniture</a></li>
             <li><a class="dropdown-item" href="#">Living Room</a></li>
             <li><a class="dropdown-item" href="#">Bed Room</a></li>
             <li><a class="dropdown-item" href="#">Plastic Products</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact Us</a>
+          <a class="nav-link" href="contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" onclick="document.getElementById('id01').style.display='block'" href="#">Sign In</a>
