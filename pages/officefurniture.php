@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Office Furniture</title>
-	<link href="bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
+	<link href="../bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
 </head>
 <body>
   <style type="text/css">
@@ -22,28 +22,28 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="Home Heaven Furniture.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="Home Heaven Furniture.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Home Heaven Furniture.html">About Us</a>
+          <a class="nav-link" href="Home Heaven Furniture.php">About Us</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="Home Heaven Furniture.html">New Arrivals</a>
+          <a class="nav-link" href="Home Heaven Furniture.php">New Arrivals</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Furniture
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="dining.html">Dining</a></li>
-            <li><a class="dropdown-item" href="officefurniture.html">Office Furniture</a></li>
+            <li><a class="dropdown-item" href="dining.php">Dining</a></li>
+            <li><a class="dropdown-item" href="officefurniture.php">Office Furniture</a></li>
             <li><a class="dropdown-item" href="#">Living Room</a></li>
             <li><a class="dropdown-item" href="#">Bed Room</a></li>
             <li><a class="dropdown-item" href="#">Plastic Products</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact Us</a>
+          <a class="nav-link" href="contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" >Sign In</a>
@@ -65,7 +65,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Office/table.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/table.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Executive Table</b></h5>
         <p class="card-text">Enhance your office interior with the glorious touch of an iconic ivory table set. The vast table design comes with a clear-cut side return that facilitates spacious drawers and a cupboard. The crisp finish of the product with two-tone contrastive elegance will showcase a classy working environment.</p>
@@ -86,7 +86,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/executive.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/executive.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Executive Cupboard</b></h5>
         <p class="card-text">Bring a grand impression to your office with the elegant white cupboard set. Glass door cupboards will hold your trophies neatly in place where the rest of the cupboards with quick access panels will provide ample storage space for an impressive arrangement.</p>
@@ -108,7 +108,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/work.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/work.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Workstation</b></h5>
         <p class="card-text">Precisely designed single unit workstation crafted with lasting scratch resistant materials to make your work life all organized. The free standing structure with aluminum fittings together with nicely blended colours will add more to your interior beauty.</p>
@@ -133,7 +133,7 @@
  
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Office/harvard.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/harvard.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Harvard Table</b></h5>
         <p class="card-text">A passion-driven masterpiece designed to bring an inspiring enhancement to your office interior. Smoothly beveled tabletop with spacious working pad and rich colour combination crafted using premium walnut veneer will bring utmost professionalism.The iconic foot design will further enrich the elegant appeal where the addition of the latest amenities and ample storage facilities will improve convenience.</p>
@@ -156,7 +156,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/steeel.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/steeel.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Steel Office Table</b></h5>
         <p class="card-text">Two tone large steel table fabricated with durable steel for improved product life. Consists of, a lockable cupboard, drawer, and a stationary tray to amply house your materials in place. Further includes a modesty panel, a footrest for your convenience where the floor caps will guard the product from floor contaminants.Two tone large steel table fabricated with durable steel for improved product life. Consists of, a lockable cupboard, drawer, and a stationary tray to amply house your materials in place. Further includes a modesty panel, a footrest for your convenience where the floor caps will guard the product from floor contaminants.</p>
@@ -176,7 +176,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/cabinet.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/cabinet.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Cabinet</b></h5>
         <p class="card-text">Wonderful development with elevated glass cupboards to showcase your finest articles in a neat arrangement. Melamine finished cupboards and drawers with a top shelf will house your best crockery collection.</p>
@@ -201,7 +201,7 @@
 
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Office/lobby.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/lobby.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Lobby Seats</b></h5>
         <p class="card-text">Unique fabric upholstered lobby seat design that is capable of fitting into any type of wall pattern in your lounge. The smooth finish of the product will beautify your office environment with a wonderful arrangement. The product comes in a combination of three parts to best suit your lobby’s decor.</p>
@@ -219,7 +219,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/kcf.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/kcf.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Conference Table</b></h5>
         <p class="card-text">Create a unique impression with a sturdy conference table development which can be ordered in separate units to match your seating requirement. The use of finest materials together with attractive golden maple colour shades will become an icon of perfection in your office</p>
@@ -238,7 +238,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Office/rect.jpg" class="card-img-top" alt="...">
+      <img src="../images/Office/rect.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Reception Counter</b></h5>
         <p class="card-text">Introduce an outstanding impression to your office with a most contemporary reception counter design. The clean tempered glass countertops and amply spaced drawers will improve convenience.</p>
