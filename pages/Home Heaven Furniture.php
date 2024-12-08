@@ -2,15 +2,14 @@
 <html>
 <head>
 	<title>project-Home Heaven Furniture</title>
-<<<<<<< HEAD
+
 	<link href="bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
 	<link  href="new.css" rel="stylesheet" type="text/css">
   <link  href="sign.css" rel="stylesheet" type="text/css">
-=======
+
 	<link href="../bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
 	<link  href="../css/new.css" rel="stylesheet" type="text/css">
   <link  href="../css/sign.css" rel="stylesheet" type="text/css">
->>>>>>> 2b9cc74750446b17833358e2edd49a2a8e96c937
 </head>
 <body >
 
