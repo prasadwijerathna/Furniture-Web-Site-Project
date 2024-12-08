@@ -397,7 +397,7 @@
 
 
 
-<script src="../bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" >
+<script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" >
   var modal = document.getElementById('id01');
 
 // When the user clicks anywhere outside of the modal, close it
