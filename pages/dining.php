@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Dining</title>
-	<link href="bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
+	<link href="../bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
 </head>
 <body>
   <style type="text/css">
@@ -271,11 +271,6 @@
 </footer>
 
 
-
-
-
-
-
-<script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" ></script>
+<script src="../bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js" ></script>
 </body>
 </html>
