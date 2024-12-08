@@ -4,8 +4,8 @@
 	<title>project-Home Heaven Furniture</title>
 
 	<link href="bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
-	<link  href="new.css" rel="stylesheet" type="text/css">
-  <link  href="sign.css" rel="stylesheet" type="text/css">
+	<link  href="../new.css" rel="stylesheet" type="text/css">
+  <link  href="../sign.css" rel="stylesheet" type="text/css">
 
 	<link href="../bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
 	<link  href="../css/new.css" rel="stylesheet" type="text/css">
