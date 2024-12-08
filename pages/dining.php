@@ -65,7 +65,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Dining/pearl.png" class="card-img-top" alt="...">
+      <img src="../images/Dining/pearl.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Pearl Dining Suite</b></h5>
         <p class="card-text">Pearl 5 piece dining suite crafted with treated wood for a solid output. Smooth finish of the beveled edge tabletop with sturdy legs brings out a satisfactory appeal. Sufficiently spaced fabric chairs with attractive wooden backrest patterns allows comfortable dining.</p>
@@ -85,7 +85,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/willow.png" class="card-img-top" alt="...">
+      <img src="../images/Dining/willow.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Willow Dining Suite (09 Piece)</b></h5>
         <p class="card-text">Add colour to your bonding family gatherings with a brilliantly crafted 9 piece dining table set. The impeccable finish of the tabletop with pleasing triangular shaped legs will showcase absolute fascination.</p>
@@ -106,7 +106,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/nevada.png" class="card-img-top" alt="...">
+      <img src="../images/Dining/nevada.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Nevada Dining Suite</b></h5>
         <p class="card-text">Create unique experiences in your family get-togethers with the precisely finished vast spaciousness of the Nevada 9 piece dining suite. Thick tabletop with bobbin patterned and tapered legs brings a satisfactory feel where the large fabric chairs with curvy backrests exhibits classiness..</p>
@@ -127,7 +127,7 @@
  
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Dining/cbint.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/cbint.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Cabinet</b></h5>
         <p class="card-text">Spacious top with a guard rail becomes a great place to arrange your beloved picture frames. Shelves with glass doors, side drawers and cupboards will permit a clean arrangement to your finest crockery and cutlery.</p>
@@ -148,7 +148,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/pantry.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/pantry.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Pantry Cupboard</b></h5>
         <p class="card-text">Introduce pure stylishness to your kitchen with Veyron pantry collection crafted from durable marine plywood. Admirable finish of the granite worktop with soft closing cupboards, drawers and lots of optional accessories will allow you to play around effortlessly. Addition of PVC skirting will act against floor contaminants. The collection can be tailor made to meet your heart’s desire.</p>
@@ -165,7 +165,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/cabinet.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/cabinet.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Cabinet</b></h5>
         <p class="card-text">Wonderful development with elevated glass cupboards to showcase your finest articles in a neat arrangement. Melamine finished cupboards and drawers with a top shelf will house your best crockery collection.</p>
@@ -189,7 +189,7 @@
 
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="Dining/wooden.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/wooden.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Caplin Wooden Dining Chair</b></h5>
         <p class="card-text">Beautiful vertical slat backrest with a slight curve for a snug fit. Clean treated wood design will give you a compassionate feel where the fabric upholstered seat with soft padding provides relaxed seating.</p>
@@ -207,7 +207,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/leyon.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/leyon.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Leyon Pantry Cupboard</b></h5>
         <p class="card-text">Make an enticing place to work your magic with sheer satisfaction. Sleek elegance of white Leyon collection with tempting granite worktop and soft closing mechanisms adds a refreshing feel. The collection can be customized to best suit your requirement and optional range of accessories available for further selection. PVC skirting will safeguard from floor contaminants while contributing to overall beauty.</p>
@@ -225,7 +225,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="Dining/metal.jpg" class="card-img-top" alt="...">
+      <img src="../images/Dining/metal.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Metal Dining Suite</b></h5>
         <p class="card-text">Smart looking fine stainless steel creation with a restaurant friendly lasting table top. Sleek ladder back chairs provides subtle attractiveness.</p>
