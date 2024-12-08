@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Dining</title>
-	<link href="bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
+	<link href="bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
 </head>
 <body>
   <style type="text/css">
