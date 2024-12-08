@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Dining</title>
-	<link href="../bootstrap-5.3.3-dist/bootstrap-5.3.3-dist/bootstrap.min.css" rel="stylesheet" >
+	<link href="../bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
 </head>
 <body>
   <style type="text/css">
@@ -22,13 +22,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="Home Heaven Furniture.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="Home Heaven Furniture.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Home Heaven Furniture.html">About Us</a>
+          <a class="nav-link" href="Home Heaven Furniture.php">About Us</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="Home Heaven Furniture.html">New Arrivals</a>
+          <a class="nav-link" href="Home Heaven Furniture.php">New Arrivals</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
