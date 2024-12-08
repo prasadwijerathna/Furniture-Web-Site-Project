@@ -383,7 +383,7 @@
       <input type="password" placeholder="Enter Password" name="psw" required></p>
 
        <button type="button" class="login">Login</button><br>
-       <a href="SignUp.html">create new account</a><br>
+       <a href="SignUp.php">create new account</a><br>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>

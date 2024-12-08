@@ -17,7 +17,11 @@
     background-color:light blue;
     margin: 5px auto; /* 15% from the top and centered */
     border: 1px solid #888;
+<<<<<<< HEAD
     width: 40%; /* Could be more or less, depending on screen size */
+=======
+    width: 10%; /* Could be more or less, depending on screen size */
+>>>>>>> 2204758c371af8ea0f21e99a07901b1f268051af
   }
   
   
