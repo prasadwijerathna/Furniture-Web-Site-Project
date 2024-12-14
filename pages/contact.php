@@ -80,14 +80,14 @@
   </header>
   <div class="container">
     <h2>We'd love to hear from you!</h2>
-    <form>
+    <form action="contact.php" method="post">
       <div class="form-group">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        <label for="name">User Name:</label>
+        <input type="text" name="username" placeholder="Enter your name" >
       </div>
       <div class="form-group">
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <input type="email" name="email" placeholder="Enter your email" required>
       </div>
       <div class="form-group">
         <label for="message">Message:</label>
@@ -112,6 +112,43 @@
         <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn">
       </a>
     </div>
+  </div>
+
+  <div>
+  <?php
+
+
+//require_once 'DB.php';
+require_once 'DBConnect.php';
+
+//insert data into students table
+function addData($connect,$username,$email,$message){
+    try {
+        $sql = "INSERT INTO contactus VALUES ('$username','$email','$message')  ";
+
+    $result = mysqli_query($connect,$sql);
+    if ($result) {
+        //echo "New customer record created successfully!";
+    }else{
+        die("Error".mysqli_error($connect));
+    }
+    } catch (Exception $e) {
+        die($e->getMessage());
+    }
+}
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    //echo "Get the post request from the client";
+    //$customerid = $_POST['customerid'];
+    $name = $_POST['username'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    //echo "<p>".$name."</P>";
+    addData($connect,$name,$email,$message);
+   // printTableCol() ;
+}
+?>
   </div>
 </body>
 </html>
