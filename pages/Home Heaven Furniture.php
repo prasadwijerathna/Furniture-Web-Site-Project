@@ -50,7 +50,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact Us</a>
+          <a class="nav-link" href="../public/contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" onclick="document.getElementById('id01').style.display='block'" href="#">Sign In</a>
