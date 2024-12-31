@@ -71,7 +71,7 @@
 <body>
     <div class="signup-container">
     <h2>Create an Account</h2>
-    <form action="SignUp.php" method ="POST">
+    <form action="signup.php" method ="POST">
     <div class="form-group">
 
         <label for="username">Username</label>
