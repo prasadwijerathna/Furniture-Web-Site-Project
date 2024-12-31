@@ -102,7 +102,7 @@
 
 
     //require_once 'DB.php';
-    require_once '../public/DBConnect.php';
+    require_once 'DBconnect.php';
 
     //insert data into students table
     function addData($connect,$username,$email,$password){
