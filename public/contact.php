@@ -114,7 +114,7 @@
     </div>
   </div>
 
-  <div>
+  
   <?php
 
 
@@ -128,7 +128,7 @@ function addData($connect,$username,$email,$message){
 
     $result = mysqli_query($connect,$sql);
     if ($result) {
-        //echo "New customer record created successfully!";
+        echo "New customer record created successfully!";
     }else{
         die("Error".mysqli_error($connect));
     }
@@ -149,6 +149,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
    // printTableCol() ;
 }
 ?>
-  </div>
+
 </body>
 </html>
