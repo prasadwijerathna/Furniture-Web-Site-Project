@@ -46,12 +46,12 @@ INSERT INTO `contactus` (`username`, `email`, `message`) VALUES
 -- Table structure for table `customer`
 --
 
-CREATE TABLE `customer` (
-  `customer_id` int(11) NOT NULL,
-  `email` varchar(50) NOT NULL,
-  `password` varchar(20) NOT NULL,
-  `username` varchar(20) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+CREATE TABLE customer (
+  customer_id int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  username varchar(20) NOT NULL,
+  email varchar(50) NOT NULL,
+  password varchar(20) NOT NULL,
+  ) ;
 
 --
 -- Dumping data for table `customer`
