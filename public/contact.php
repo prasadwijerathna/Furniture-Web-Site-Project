@@ -124,7 +124,7 @@ require_once 'DBConnect.php';
 //insert data into students table
 function addData($connect,$username,$email,$message){
     try {
-        $sql = "INSERT INTO contactus VALUES ('$username','$email','$message')  ";
+        $sql = "INSERT INTO contactus VALUES ('$username','$email','$message')";
 
     $result = mysqli_query($connect,$sql);
     if ($result) {
