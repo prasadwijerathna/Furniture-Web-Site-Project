@@ -179,6 +179,37 @@ span.price {
 </div>
 <?php
 
+
+//require_once 'DB.php';
+require_once 'DBconnect.php';
+
+//insert data into students table
+function addData($connect,$username,$email,$message){
+    try {
+        $sql = "INSERT INTO contactus VALUES ('$username','$email','$message')";
+
+    $result = mysqli_query($connect,$sql);
+    if ($result) {
+        echo "New customer record created successfully!";
+    }else{
+        die("Error".mysqli_error($connect));
+    }
+    } catch (Exception $e) {
+        die($e->getMessage());
+    }
+}
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    //echo "Get the post request from the client";
+    //$customerid = $_POST['customerid'];
+    $name = $_POST['username'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+
+    //echo "<p>".$name."</P>";
+    addData($connect,$name,$email,$message);
+   // printTableCol() ;
+}
 ?>
 
 </body>
