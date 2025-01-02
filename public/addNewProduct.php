@@ -1,9 +1,9 @@
 <?php
 // Database connection
-$servername = "localhost"; // Change this to your server name
+$servername = "127.0.0.1"; // Change this to your server name
 $username = "root";        // Change this to your database username
-$password = "";            // Change this to your database password
-$dbname = "uni"; // Change this to your database name
+$password = "mariadb";            // Change this to your database password
+$dbname = "homeheaven"; // Change this to your database name
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
