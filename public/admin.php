@@ -13,11 +13,11 @@ if ($conn->connect_error) {
 }
 
 // Fetch items from the database
-$sql = "SELECT * FROM items";
-$result = $conn->query($sql);
+$sql1 = "SELECT * FROM items";
+$result = $conn->query($sql1);
 
-$sql = "SELECT * FROM customer";
-$resultuser = $conn->query($sql);
+$sql2 = "SELECT * FROM customer";
+$resultuser = $conn->query($sql2);
 
 ?>
 <!DOCTYPE html>
