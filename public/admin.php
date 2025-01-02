@@ -14,7 +14,7 @@ if ($conn->connect_error) {
 
 // Fetch items from the database
 $sql = "SELECT * FROM items";
-//$result = $conn->query($sql);
+$result = $conn->query($sql);
 
 $sql = "SELECT * FROM customer";
 $resultuser = $conn->query($sql);
