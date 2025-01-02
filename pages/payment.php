@@ -181,7 +181,7 @@ span.price {
 
 
 //require_once 'DB.php';
-require_once '../connect.php';
+require_once '../public/DBconnect.php';
 
 //insert data into students table
 function addData($connect,$username,$email,$message){
