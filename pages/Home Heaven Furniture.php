@@ -170,7 +170,7 @@
 			<li>WBEAV 7860 / 78″ x 60″  Rs. 44,100</li>	
 		</ul><br>
     <P><b>RS:70,000.00/=  Only</b></P><br><br><br><br>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="payment.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
       <div class="card-footer">
