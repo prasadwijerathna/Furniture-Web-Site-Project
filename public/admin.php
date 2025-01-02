@@ -188,7 +188,7 @@ $resultuser = $conn->query($sql);
         <a href="addNewProduct.php" class="button">Add New Product</a>
         <div class="cards-container">
             <?php
-            if ($result->num_rows > 0) {
+            if ($resultuser->num_rows > 0) {
                 // Output data for each row
                 while ($row = $result->fetch_assoc()) {
                     echo '<div class="card">';
