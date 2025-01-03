@@ -19,6 +19,9 @@ $result = $conn->query($sql1);
 $sql2 = "SELECT * FROM customer";
 $resultuser = $conn->query($sql2);
 
+$sql = "SELECT * FROM Orders";
+$result = $conn->query($sql);
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
