@@ -120,7 +120,7 @@ span.price {
           <div class="col-50">
             <h3>Billing Address</h3>
             <label for="fname">Full Name</label>
-            <input type="text" id="fname" name="firstname">
+            <input type="text" id="fname" name="fname">
             <label for="email"> Email</label>
             <input type="text" id="email" name="email">
             <label for="adr"> Address</label>
@@ -218,17 +218,17 @@ function addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncar
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     //echo "Get the post request from the client";
     //$customerid = $_POST['customerid'];
-    $fname = $_POST['fullname'];
+    $fname = $_POST['fname'];
     $email = $_POST['email'];
     $address = $_POST['address'];
     $city = $_POST['city'];
     $state = $_POST['state'];
     $zip = $_POST['zip'];
-    $nameoncard = $_POST['nameoncard'];
-    $creditcardno = $_POST['creditcardno'];
+    $nameoncard = $_POST['cardname'];
+    $creditcardno = $_POST['cardnumber'];
     $expmonth = $_POST['expmonth'];
     $expyear = $_POST['expyear'];
-    $cvv = $_POST['cvv '];
+    $cvv = $_POST['cvv'];
     
 
     //echo "<p>".$name."</P>";
