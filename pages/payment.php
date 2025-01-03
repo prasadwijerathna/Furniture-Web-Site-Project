@@ -202,7 +202,7 @@ catch (Exception $e){
 //insert data into students table
 function addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv){
     try {
-        $sql = "INSERT INTO orders (fullname,email,address,city,state,zip,CardName,CardNumber,expmonth,expyear,cvv) VALUES ('$fullname','$email','$address','$city','$state','$zip','$nameoncard','$creditcardno','$expmonth','$expyear','$cvv')";
+        $sql = "INSERT INTO Orders(fullname,email,address,city,state,zip,CardName,CardNumber,expmonth,expyear,cvv) VALUES ('$fullname','$email','$address','$city','$state','$zip','$nameoncard','$creditcardno','$expmonth','$expyear','$cvv')";
 
     $result = mysqli_query($connect,$sql);
     if ($result) {
