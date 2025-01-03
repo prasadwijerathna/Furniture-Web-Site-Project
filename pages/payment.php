@@ -181,10 +181,10 @@ span.price {
 
 
 //connect with database;
-define('SERVERNAME', 'localhost');
+define('SERVERNAME', '127.0.0.1');
 define('USERNAME', 'root');
-define('PASSWORD', '');
-define('DBNAME', 'uni');
+define('PASSWORD', 'mariadb');
+define('DBNAME', 'homeheaven');
 try{
 	
 $connect = mysqli_connect(SERVERNAME,USERNAME,PASSWORD,DBNAME);
