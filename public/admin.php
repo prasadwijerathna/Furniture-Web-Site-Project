@@ -195,7 +195,6 @@ $result = $conn->query($sql);
                 // Output data for each row
                 while ($row = $result->fetch_assoc()) {
                     echo '<div class="card">';
-                    echo '<img src="' . htmlspecialchars($row["image_path"]) . '" alt="Item Image">';
                     echo '<div class="card-content">';
                     echo '<h3>' . htmlspecialchars($row["name"]) . '</h3>';
                     echo '<p><strong>Category:</strong> ' . htmlspecialchars($row["category"]) . '</p>';
