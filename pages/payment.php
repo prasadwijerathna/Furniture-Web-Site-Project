@@ -114,7 +114,7 @@ span.price {
 <div class="row">
   <div class="col-75">
     <div class="container">
-      <form action="/index.php">
+      <form action="" method="POST">
       
         <div class="row">
           <div class="col-50">
@@ -171,7 +171,7 @@ span.price {
         <label>
           <input type="checkbox" checked="checked" name="sameadr"> Shipping address same as billing
         </label>
-        <input type="submit" value="Continue to checkout" class="btn">
+        <input type="submit" value="Continue to checkout" class="btn" name="submit">
       </form>
     </div>
   </div>
@@ -181,10 +181,10 @@ span.price {
 
 
 //connect with database;
-define('SERVERNAME', '127.0.0.1');
+define('SERVERNAME', 'localhost');
 define('USERNAME', 'root');
-define('PASSWORD', 'mariadb');
-define('DBNAME', 'homeheaven');
+define('PASSWORD', '');
+define('DBNAME', 'uni');
 try{
 	
 $connect = mysqli_connect(SERVERNAME,USERNAME,PASSWORD,DBNAME);
@@ -202,7 +202,7 @@ catch (Exception $e){
 //insert data into students table
 function addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv){
     try {
-        $sql = "INSERT INTO orders VALUES ('$fullname','$email','$address','$city','$state','$zip','$nameoncard','$creditcardno','$expmonth','$expyear','$cvv')";
+        $sql = "INSERT INTO orders (fullname,email,address,city,state,zip,CardName,CardNumber,expmonth,expyear,cvv) VALUES ('$fullname','$email','$address','$city','$state','$zip','$nameoncard','$creditcardno','$expmonth','$expyear','$cvv')";
 
     $result = mysqli_query($connect,$sql);
     if ($result) {
@@ -232,7 +232,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     
 
     //echo "<p>".$name."</P>";
-    addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv);
+    addData($connect,$fname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv);
    // printTableCol() ;
 }
 ?>
