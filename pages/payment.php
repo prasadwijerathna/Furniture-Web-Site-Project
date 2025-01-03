@@ -180,8 +180,24 @@ span.price {
 <?php
 
 
-//require_once 'DB.php';
-require_once 'DBconnect.php';
+//connect with database;
+define('SERVERNAME', '127.0.0.1');
+define('USERNAME', 'root');
+define('PASSWORD', 'mariadb');
+define('DBNAME', 'homeheaven');
+try{
+	
+$connect = mysqli_connect(SERVERNAME,USERNAME,PASSWORD,DBNAME);
+
+if (!$connect) {
+	die("connection failed".mysqli_connect_error()); //die - stop process after that
+} else {
+	echo "Connection successfully <br>";
+	}
+}
+catch (Exception $e){
+	die($e->getMessage());
+}
 
 //insert data into students table
 function addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv){
