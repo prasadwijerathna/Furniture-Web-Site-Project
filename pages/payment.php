@@ -181,12 +181,12 @@ span.price {
 
 
 //require_once 'DB.php';
-require_once '../public/DBconnect.php';
+require_once 'DBconnect.php';
 
 //insert data into students table
-function addData($connect,$username,$email,$message){
+function addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv){
     try {
-        $sql = "INSERT INTO contactus VALUES ('$username','$email','$message')";
+        $sql = "INSERT INTO contactus VALUES ('$fullname','$email','$address','$city','$state','$zip','$nameoncard','$creditcardno','$expmonth','$expyear','$cvv')";
 
     $result = mysqli_query($connect,$sql);
     if ($result) {
@@ -202,12 +202,21 @@ function addData($connect,$username,$email,$message){
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     //echo "Get the post request from the client";
     //$customerid = $_POST['customerid'];
-    $name = $_POST['username'];
+    $fname = $_POST['fullname'];
     $email = $_POST['email'];
-    $message = $_POST['message'];
+    $address = $_POST['address'];
+    $city = $_POST['city'];
+    $state = $_POST['state'];
+    $zip = $_POST['zip'];
+    $nameoncard = $_POST['nameoncard'];
+    $creditcardno = $_POST['creditcardno'];
+    $expmonth = $_POST['expmonth'];
+    $expyear = $_POST['expyear'];
+    $cvv = $_POST['cvv '];
+    
 
     //echo "<p>".$name."</P>";
-    addData($connect,$name,$email,$message);
+    addData($connect,$fullname,$email,$address,$city,$state,$zip,$nameoncard,$creditcardno,$expmonth,$expyear,$cvv);
    // printTableCol() ;
 }
 ?>
