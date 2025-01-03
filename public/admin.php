@@ -196,7 +196,12 @@ $result = $conn->query($sql);
                 while ($row = $result->fetch_assoc()) {
                     echo '<div class="card">';
                     echo '<div class="card-content">';
-                  
+                    echo '<h3>' . htmlspecialchars($row["name"]) . '</h3>';
+                    echo '<p><strong>Category:</strong> ' . htmlspecialchars($row["category"]) . '</p>';
+                    echo '<p><strong>Description:</strong> ' . htmlspecialchars($row["description"]) . '</p>';
+                    echo '<p><strong>Warranty:</strong> ' . htmlspecialchars($row["warranty"]) . '</p>';
+                    echo '<p><strong>Dimension:</strong> ' . htmlspecialchars($row["dimension"]) . '</p>';
+                    echo '<p class="price"><strong>Price:</strong> $' . htmlspecialchars($row["price"]) . '</p>';
                     echo '</div>';
                     echo '</div>';
                 }
