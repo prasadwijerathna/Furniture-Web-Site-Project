@@ -195,6 +195,7 @@ $result = $conn->query($sql);
                 // Output data for each row
                 while ($row = $result->fetch_assoc()) {
                     echo '<div class="card">';
+                    echo '<img src="' . htmlspecialchars($row["image_path"]) . '" alt="Item Image">';
                     echo '<div class="card-content">';
                     echo '<h3>' . htmlspecialchars($row["name"]) . '</h3>';
                     echo '<p><strong>Category:</strong> ' . htmlspecialchars($row["category"]) . '</p>';
@@ -214,52 +215,34 @@ $result = $conn->query($sql);
     </div>
 
     <div id="orders" class="card">
-    <h1>Orders</h1>
-    <?php if ($result->num_rows > 0): ?>
-        <table>
+        <h3>Manage Orders</h3>
+        <table class="table">
             <thead>
                 <tr>
                     <th>Order ID</th>
-                    <th>Full Name</th>
-                    <th>Email</th>
-                    <th>Address</th>
-                    <th>City</th>
-                    <th>State</th>
-                    <th>Zip</th>
-                    <th>Card Name</th>
-                    <th>Card Number</th>
-                    <th>Expiration Month</th>
-                    <th>Expiration Year</th>
-                    <th>CVV</th>
-                    <th>Same Address</th>
-                    <th>Created At</th>
+                    <th>Customer</th>
+                    <th>Status</th>
+                    <th>Total</th>
+                    <th>Actions</th>
                 </tr>
             </thead>
             <tbody>
-                <?php while ($row = $result->fetch_assoc()): ?>
-                    <tr>
-                        <td><?php echo htmlspecialchars($row['OrderID']); ?></td>
-                        <td><?php echo htmlspecialchars($row['FullName']); ?></td>
-                        <td><?php echo htmlspecialchars($row['Email']); ?></td>
-                        <td><?php echo htmlspecialchars($row['Address']); ?></td>
-                        <td><?php echo htmlspecialchars($row['City']); ?></td>
-                        <td><?php echo htmlspecialchars($row['State']); ?></td>
-                        <td><?php echo htmlspecialchars($row['Zip']); ?></td>
-                        <td><?php echo htmlspecialchars($row['CardName']); ?></td>
-                        <td><?php echo htmlspecialchars($row['CardNumber']); ?></td>
-                        <td><?php echo htmlspecialchars($row['ExpMonth']); ?></td>
-                        <td><?php echo htmlspecialchars($row['ExpYear']); ?></td>
-                        <td><?php echo htmlspecialchars($row['CVV']); ?></td>
-                        <td><?php echo htmlspecialchars($row['SameAddress']) ? 'Yes' : 'No'; ?></td>
-                        <td><?php echo htmlspecialchars($row['CreatedAt']); ?></td>
-                    </tr>
-                <?php endwhile; ?>
+                <tr>
+                    <td>101</td>
+                    <td>John Doe</td>
+                    <td>Pending</td>
+                    <td>$1250</td>
+                    <td><a href="#" class="button">View</a></td>
+                </tr>
+                <tr>
+                    <td>102</td>
+                    <td>Jane Smith</td>
+                    <td>Shipped</td>
+                    <td>$890</td>
+                    <td><a href="#" class="button">View</a></td>
+                </tr>
             </tbody>
         </table>
-    <?php else: ?>
-        <p class="no-data">No orders found.</p>
-    <?php endif; ?>
-    <?php $conn->close(); ?>
     </div>
 
     <div id="users" class="card">
