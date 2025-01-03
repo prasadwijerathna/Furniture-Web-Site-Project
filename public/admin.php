@@ -246,14 +246,20 @@ $resultuser = $conn->query($sql2);
         <h3>Manage Users</h3>
         <?php if ($resultuser->num_rows > 0): ?>
         <table>
-            <thead>
-                <tr>
-                    <th>Customer ID</th>
-                    <th>Username</th>
-                    <th>Email</th>
-                    <th>Password</th>
-                </tr>
-            </thead>
+        <?php while ($row = $resultuser->fetch_assoc()): ?>
+                    <tr>
+                        <td><?php echo htmlspecialchars($row['customer_id']); ?></td>
+                        <td><?php echo htmlspecialchars($row['username']); ?></td>
+                        <td><?php echo htmlspecialchars($row['email']); ?></td>
+                        <td><?php echo htmlspecialchars($row['password']); ?></td>
+                    </tr>
+                <?php endwhile; ?>
+            </tbody>
+        </table>
+    <?php else: ?>
+        <p class="no-data">No customers found.</p>
+    <?php endif; ?>
+    <?php $conn->close(); ?>
             <tbody>
                 <?php while ($row = $resultuser->fetch_assoc()): ?>
                     <tr>
@@ -265,7 +271,7 @@ $resultuser = $conn->query($sql2);
                 <?php endwhile; ?>
             </tbody>
         </table>
-    <?php else: ?>
+   
         <p class="no-data">No customers found.</p>
     <?php endif; ?>
     <?php $conn->close(); ?>
