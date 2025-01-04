@@ -215,7 +215,7 @@ $resultuser = $conn->query($sql2);
     <h3>Manage Orders</h3>
     <div id="orders" class="card">
        
-    <a href="d.php" class="button">see orders</a>
+    <a href="orders.php" class="button">see orders</a>
     </div>
 
     <div id="users" class="card">
