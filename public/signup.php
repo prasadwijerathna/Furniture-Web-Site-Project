@@ -93,7 +93,7 @@
       </div>
 
       <div class="login-link">
-      Already have an account? <a href="../pages/Home Heaven Furniture.php">Login here</a>
+      Already have an account? <a href="../pages/Home Heaven Furniture.php">Home Page</a>
     </div>
 
     </form>
