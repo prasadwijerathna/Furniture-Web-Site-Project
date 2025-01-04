@@ -86,7 +86,7 @@ $result = $conn->query($sql);
     </style>
 </head>
 <body>
-    <h1>Items</h1>
+    <h1>New Arrived Items</h1>
     <div class="cards-container">
     <?php
     if ($result->num_rows > 0) {
