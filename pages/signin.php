@@ -98,37 +98,7 @@
         <a href="../public/signup.php">don't have account?</a>
     </div>
 
-    <script>
-        document.getElementById("signinForm").addEventListener("submit", function (e) {
-    e.preventDefault(); // Prevent form submission
-
-    const email = document.getElementById("email").value.trim();
-    const password = document.getElementById("password").value.trim();
-    const errorMessage = document.getElementById("errorMessage");
-
-    // Simple validation
-    if (email === "" || password === "") {
-        errorMessage.textContent = "Both fields are required!";
-         
-
-        return;
-    }
-
-    // Example for validating email format
-    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailPattern.test(email)) {
-        errorMessage.textContent = "Please enter a valid email!";
-        return;
-    }
-
-    // If all checks pass
-    errorMessage.textContent = "";
-    alert("Sign-In Successful!");
-    window.open('payment.php', '_blank'); 
-});
-
-    </script>
-
+    
 <?php
 
 require_once '../php/functions/dbconf.php';
