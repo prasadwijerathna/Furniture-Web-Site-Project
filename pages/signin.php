@@ -92,7 +92,7 @@
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
-            <button type="submit" class="btn" href="payment.php">Sign In</button>
+            <button type="submit" class="btn" >Sign In</button>
             <p class="error" id="errorMessage"></p>
         </form>
         <a href="../public/signup.php">don't have account?</a>
@@ -125,6 +125,39 @@
 });
 
     </script>
+
+<?php
+
+require_once '../php/functions/dbconf.php';
+
+try{if(isset($_POST['submit'])){
+    $name = $_POST['username'];
+    $password = $_POST['password'];
+
+    $sql="SELECT password FROM customers WHERE name='$name'";
+
+    $result = mysqli_query($connect,$sql);
+
+    $row = mysqli_fetch_assoc($result);
+    $hash = $row['password'];
+
+    if(password_verify($password,$hash)){
+        echo "<script>
+                document.getElementById('loginForm').reset();
+                window.open('../php/dashboard.php', '_blank');  
+                window.location.href = 'index.php'; 
+            </script>";
+    }else{
+        echo "<script>
+                alert('Password is incorrect! Try Again');
+                document.getElementById('loginForm').reset();
+            </script>";
+    }
+}
+}catch(Exception $e)
+{}
+    
+?>
    
 </body>
 </html>
