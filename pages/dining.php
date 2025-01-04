@@ -76,7 +76,7 @@
 		</ul></p><b><i>Dimensions</i></b>
 		<ul><li>Table : Length – 122cm | Width – 76cm | Height – 77cm</li>
 		</ul>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -96,7 +96,7 @@
 		</ul></p><b><i>Dimension</i></b>
 		<ul><li>Table : Length – 243cm | Width – 121.5cm | Height – 78cm</li>
 		</ul>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
       <div class="card-footer">
@@ -115,7 +115,7 @@
       		<li>2 year comprehensive Warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul><br><br>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -137,7 +137,7 @@
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p><b><i>Dimensions</i></b>
     <ul><li>Length – 150cm | Width – 40cm | Height – 90cm</li>
-    </ul><a href="#" class="btn btn-primary">Buy Now</a>
+    </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
 
@@ -157,7 +157,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul>
-    <a href="#" class="btn btn-primary">Buy Now</a></div>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
       </div>
@@ -177,7 +177,7 @@
     <ul><li>Length – 121cm | Width – 40cm | Height – 191cm</li>
         
     </ul>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -198,7 +198,7 @@
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br><br><br><br><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -216,7 +216,7 @@
           <li>2 year comprehensive Warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -237,7 +237,7 @@
     <ul><li>Table : Length – 76.2cm | Width – 76.2cm | Height – 76.2cm</li>
         
     </ul><br><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
