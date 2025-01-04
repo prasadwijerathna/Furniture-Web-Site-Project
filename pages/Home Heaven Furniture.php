@@ -243,7 +243,7 @@
   </div>
   </div>
 </div>
-<p><a href="../public/newarrival.php" class="btn btn-primary">see more new arrival</a>
+<p><br><a href="../public/newarrival.php" class="btn btn-primary">see more new arrival</a>
 </p>
 
 	
