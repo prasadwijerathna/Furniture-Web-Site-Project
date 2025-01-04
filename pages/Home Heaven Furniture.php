@@ -53,7 +53,7 @@
           <a class="nav-link" href="../public/contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="signin.php">Sign In</a>
+          <a class="nav-link" href="signup.php">Sign Up</a>
         </li>
    </ul>
 
