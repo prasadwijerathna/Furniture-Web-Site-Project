@@ -124,6 +124,6 @@
 });
 
     </script>
-    <a href="../public/signup.php"></a>
+    <a href="../public/signup.php">don't have account?</a>
 </body>
 </html>
