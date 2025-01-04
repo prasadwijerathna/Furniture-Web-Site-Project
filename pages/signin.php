@@ -124,5 +124,6 @@
 });
 
     </script>
+    <a href="../public/signup.php"></a>
 </body>
 </html>
