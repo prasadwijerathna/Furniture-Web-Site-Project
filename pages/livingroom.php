@@ -126,8 +126,8 @@
         <p class="card-text">An ingenious production that advances your living room’s interior to the next level. The massive architecture of the wall unit allows you to effortlessly house your big screen television whilst neatly organizing other entertainment gadgets in place. Also, equips with ornament racks, cupboards and a cabinet with tempered glass doors for efficient storage management.</p>
         <p><b><i>Warranty</i></b>
         <ul>
-          <li>15 Year Warranty for spring structure</li>
-          <li>5 Year Warranty for foam layers.</li>
+          <li>3 Year comprehensive warranty</li>
+          <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
@@ -142,8 +142,8 @@
     <div class="card h-100">
       <img src="../images/Dining/pantry.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Foldable Ironing Board</b></h5>
-        <p class="card-text">Strong collapsible iron table fabricated with powder coated steel tubes for a lasting impression. Finely padded board will allow easy ironing with the convenient holder. Height adjustment will permit you to set up your preferable height where the anti-slip bushes will ensure a steady posture.</p>
+        <h4 class="card-title"><b>Zurich Coffee Table</b></h5>
+        <p class="card-text">Rich in antique taste this marvelous coffee table will introduce classical glamour to your living space. The attractively carved patterns with a clean set of drawers will add unique décor to your living space.</p>
       <p><b><i>Warranty</i></b>
         <ul>
           <li>3 Year comprehensive warranty</li>
@@ -159,8 +159,8 @@
     <div class="card h-100">
       <img src="../images/Dining/cabinet.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b> Modular Wardrobe</b></h5>
-        <p class="card-text">Compliment your room’s interior with a modern touch by introducing latest modular wardrobes. Satisfactory tailor made manufacturing with finest materials will fulfill your desired interior taste.</p>
+        <h4 class="card-title"><b>Luis Single Seater</b></h5>
+        <p class="card-text">Create a soothing place to read your favourite novel with a cozy single-seater. The fully upholstered and smoothly crafted design will bring snug comfort.</p>
         <p><b><i>Warranty</i></b>
         <ul>
           <li>3 Year comprehensive warranty</li>
