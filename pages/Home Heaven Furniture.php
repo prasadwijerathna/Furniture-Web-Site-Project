@@ -148,7 +148,7 @@
 			<li>2 Seater: Length – 144cm | Width – 81cm | Height – 86cm</li>	
 		</ul>
     <br><P><b>RS:90,000.00/=  Only</b></P>
-		<a href="payment.php" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
