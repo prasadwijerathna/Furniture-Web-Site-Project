@@ -94,7 +94,7 @@
 <body>
     <div class="sign-in-container">
         <h1>Sign In</h1>
-        <form>
+        <form id="signinForm" method="post" action="signin.php">
             <div class="form-group">
                 <label for="email">Email Address</label>
                 <input type="email" id="email" name="email" placeholder="Enter your email" required>
@@ -107,7 +107,7 @@
         </form>
         <div class="additional-links">
             <p><a href="#">Forgot your password?</a></p>
-            <p><a href="#">Create an account</a></p>
+            <p><a href="../public/signup.php">Create an account</a></p>
         </div>
     </div>
 
