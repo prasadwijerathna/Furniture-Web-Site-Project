@@ -67,14 +67,13 @@
     <div class="card h-100" style="height: 600px">
       <img src="../images/Dining/pearl.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Pearl Dining Suite</b></h5>
-        <p class="card-text">Pearl 5 piece dining suite crafted with treated wood for a solid output. Smooth finish of the beveled edge tabletop with sturdy legs brings out a satisfactory appeal. Sufficiently spaced fabric chairs with attractive wooden backrest patterns allows comfortable dining.</p>
+        <h4 class="card-title"><b>Regent Bedroom Suite</b></h5>
+        <p class="card-text">Satisfaction of great simplicity is achieved in the development of Regent bedroom suite. Fine architecture of the bed that ensures lasting strength and the wardrobe design will provide sufficient space for your belongings. Moreover, the tall mirror dressing table will improve stylishness of your room thus giving you the best viewing angle..</p>
 		<p><b><i>Warranty</i></b>
       	<ul>
-      		<li>3 Year comprehensive warranty</li>
-      		<li>Warranty Covers Only Manufacturing Defects.</li>
-		</ul></p><b><i>Dimensions</i></b>
-		<ul><li>Table : Length – 122cm | Width – 76cm | Height – 77cm</li>
+      		<li>15 Year Warranty for bed</li>
+      		<li>3 Year Warranty for Wardrobe,Dressing Table,Dressing Stool & Bedside Rack.</li>
+            <li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
