@@ -187,7 +187,7 @@
       <img src="../images/Dining/wooden.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Carvin Dressing Table</b></h5>
-        <p class="card-text">Beautiful vertical slat backrest with a slight curve for a snug fit. Clean treated wood design will give you a compassionate feel where the fabric upholstered seat with soft padding provides relaxed seating.</p>
+        <p class="card-text">Eminent creation with modern edge thinking combined with a classical sense. Top of the range tall mirror will allow purest projection whereas especially designed side mounted glass cabinet will give your branded products a visible arrangement.</p>
         <p><b><i>Warranty</i></b>
         <ul>
           <li>2 Year comprehensive warranty</li>
@@ -204,8 +204,8 @@
     <div class="card h-100">
       <img src="../images/Dining/leyon.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Leyon Pantry Cupboard</b></h5>
-        <p class="card-text">Make an enticing place to work your magic with sheer satisfaction. Sleek elegance of white Leyon collection with tempting granite worktop and soft closing mechanisms adds a refreshing feel. The collection can be customized to best suit your requirement and optional range of accessories available for further selection. PVC skirting will safeguard from floor contaminants while contributing to overall beauty.</p>
+        <h4 class="card-title"><b>Shoe Rack</b></h5>
+        <p class="card-text">Appealing shoe rack design produced with scratch resistant materials to arrange your beautiful shoe collection tidily in place. Scratch proof surfaces will lead to a lasting and a clean presentation.</p>
         <p><b><i>Warranty</i></b>
         <ul>
           <li>2 year comprehensive Warranty</li>
@@ -222,16 +222,13 @@
     <div class="card h-100">
       <img src="../images/Dining/metal.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Metal Dining Suite</b></h5>
-        <p class="card-text">Smart looking fine stainless steel creation with a restaurant friendly lasting table top. Sleek ladder back chairs provides subtle attractiveness.</p>
+        <h4 class="card-title"><b>Clothes Rack</b></h5>
+        <p class="card-text">Fine built cloth rack with top grade stainless steel tubes for improved durability combined with a shiny presentation.</p>
         <p><b><i>Warranty</i></b>
         <ul>
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul></p><b><i>Dimensions</i></b>
-    <ul><li>Table : Length – 76.2cm | Width – 76.2cm | Height – 76.2cm</li>
-        
-    </ul><br><br>
+    </ul></p><br><br>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
