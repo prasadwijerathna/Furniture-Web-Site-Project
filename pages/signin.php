@@ -103,7 +103,7 @@
                 <label for="password">Password</label>
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
-            <button type="submit" class="sign-in-button">Sign In</button>
+            <button type="submit" class="sign-in-button" name="submit">Sign In</button>
         </form>
         <div class="additional-links">
             <p><a href="#">Forgot your password?</a></p>
