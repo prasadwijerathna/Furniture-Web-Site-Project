@@ -65,7 +65,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/pearl.png" class="card-img-top" alt="...">
+      <img src="../images/Dining/regand.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Regent Bedroom Suite</b></h5>
         <p class="card-text">Satisfaction of great simplicity is achieved in the development of Regent bedroom suite. Fine architecture of the bed that ensures lasting strength and the wardrobe design will provide sufficient space for your belongings. Moreover, the tall mirror dressing table will improve stylishness of your room thus giving you the best viewing angle..</p>
@@ -86,15 +86,13 @@
     <div class="card h-100">
       <img src="../images/Dining/willow.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Regent Bedside Rack – KCRE 001</b></h5>
-        <p class="card-text">Handy stand made of easy to clean scratch resistant materials to hold a night lamp just beside your bed. Additional shelf will hold your favourite magazine in a conveniently accessible height.</p>
+        <h4 class="card-title"><b>Felicia Storage Bed</b></h5>
+        <p class="card-text">Turn the unused space underneath your bed to a spacious storage while enjoying the aesthetics of the design. Precisely planned structure will ensure noise free peacefulness whereas the storage compartments will promise you a clutter free arrangement.</p>
         <p><b><i>Warranty</i></b>
       	<ul>
-      		<li>3 Year comprehensive warranty</li>
-      		<li>Warranty Covers Only Manufacturing Defects.</li>
-		</ul></p><b><i>Dimension</i></b>
-		<ul><li>Length – 40cm | Width – 32cm | Height – 50cm</li>
-		</ul>
+      		<li>5 Year Warranty for bed</li>
+      		<li>1 Year Warranty for bed mechanism.</li>
+		</ul></p>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
