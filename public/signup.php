@@ -107,7 +107,7 @@
     //insert data into students table
     function addData($connect,$username,$email,$password){
         try {
-            $sql = "INSERT INTO customer VALUES ('$username','$email','$password')  ";
+            $sql = "INSERT INTO customer (username,email,password) VALUES ('$username','$email','$password')  ";
     
         $result = mysqli_query($connect,$sql);
         if ($result) {
