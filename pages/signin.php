@@ -115,9 +115,9 @@ function getData($connect,$email,$password){
 
         if($password == $data){
             echo "<script>
-                        document.getElementById('loginForm').reset();
-                    window.open('payment/php ', '_blank');  
-                    window.location.href = 'index.php'; 
+               
+                    window.open('payment.php ', '_blank');  
+                    window.location.href = 'Home Heaven Furniture.php' 
                         </script>";
         }else{
             echo "<script>
