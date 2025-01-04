@@ -64,7 +64,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/livingroom/Sentinal.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/sentianal.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Sentinal Sofa</b></h5>
         <p class="card-text">Aesthetically pleasing creation of refined excellence. Especially formed distinctive arm pattern along with the uniquely tufted vertical lines proudly stands out symbolizing finest craftsmanship. The built to last frame with carved bun footing further adds charisma to your living room.</p>
