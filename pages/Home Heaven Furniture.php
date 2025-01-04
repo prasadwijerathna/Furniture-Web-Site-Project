@@ -116,10 +116,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-			<p><br>
-			    <div class="but">
-			    	<a href="#" class="btn btn-primary">See More</a></p>	
-			    </div>		
+			
 		</div>
 
 
