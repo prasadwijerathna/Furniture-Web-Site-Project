@@ -212,8 +212,9 @@ $resultuser = $conn->query($sql2);
             </div>
     </div>
 
+    <h3>Manage Orders</h3>
     <div id="orders" class="card">
-        <h3>Manage Orders</h3>
+       
         <table class="table">
             <thead>
                 <tr>
