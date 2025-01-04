@@ -192,7 +192,7 @@
 		<ul><li>Table : Length – 122cm | Width – 76cm | Height – 77cm</li>
 				
 		</ul><br><P><b>RS:150,000.00/=  Only</b></P><br><br>
-		<a href="payment.php" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -215,7 +215,7 @@
     </ul></p><b><i>Dimensions</i></b>
     <ul><li>Length – 280cm | Width – 225cm | Height – 77cm</li>
     </ul><P><b>RS:270,000.00/=  Only</b></P>
-    <a href="payment.php" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
 
@@ -235,7 +235,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><P><b>RS:870,000.00/=  Only</b></P><br><br><br>
-    <a href="payment.php" class="btn btn-primary">Buy Now</a></div>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
       </div>
