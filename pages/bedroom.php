@@ -161,7 +161,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/bedroom/modular.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/Modular.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b> Modular Wardrobe</b></h5>
         <p class="card-text">Compliment your room’s interior with a modern touch by introducing latest modular wardrobes. Satisfactory tailor made manufacturing with finest materials will fulfill your desired interior taste.</p>
@@ -200,7 +200,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/bedroom/shoe-rack.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/Shoe-Rack.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Shoe Rack</b></h5>
         <p class="card-text">Appealing shoe rack design produced with scratch resistant materials to arrange your beautiful shoe collection tidily in place. Scratch proof surfaces will lead to a lasting and a clean presentation.</p>
