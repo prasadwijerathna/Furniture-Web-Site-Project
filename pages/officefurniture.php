@@ -43,10 +43,10 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact Us</a>
+        <a class="nav-link" href="../public/contact.php">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" >Sign In</a>
+        <a class="nav-link" href="../public/signup.php">Sign Up</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
