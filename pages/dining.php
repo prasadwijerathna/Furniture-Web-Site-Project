@@ -39,7 +39,7 @@
             <li><a class="dropdown-item" href="officefurniture.php">Office Furniture</a></li>
             <li><a class="dropdown-item" href="#">Living Room</a></li>
             <li><a class="dropdown-item" href="#">Bed Room</a></li>
-            <li><a class="dropdown-item" href="#">Plastic Products</a></li>
+          
           </ul>
         </li>
         <li class="nav-item">
