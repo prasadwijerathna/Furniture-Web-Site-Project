@@ -109,6 +109,8 @@
     // Simple validation
     if (email === "" || password === "") {
         errorMessage.textContent = "Both fields are required!";
+         
+
         return;
     }
 
@@ -122,6 +124,7 @@
     // If all checks pass
     errorMessage.textContent = "";
     alert("Sign-In Successful!");
+    window.open('payment.php', '_blank'); 
 });
 
     </script>
@@ -157,7 +160,7 @@ try{if(isset($_POST['submit'])){
 }catch(Exception $e)
 {}
     
-?>
+?> 
    
 </body>
 </html>
