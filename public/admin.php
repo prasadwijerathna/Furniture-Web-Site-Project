@@ -215,33 +215,7 @@ $resultuser = $conn->query($sql2);
     <h3>Manage Orders</h3>
     <div id="orders" class="card">
        
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>Order ID</th>
-                    <th>Customer</th>
-                    <th>Status</th>
-                    <th>Total</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>101</td>
-                    <td>John Doe</td>
-                    <td>Pending</td>
-                    <td>$1250</td>
-                    <td><a href="#" class="button">View</a></td>
-                </tr>
-                <tr>
-                    <td>102</td>
-                    <td>Jane Smith</td>
-                    <td>Shipped</td>
-                    <td>$890</td>
-                    <td><a href="#" class="button">View</a></td>
-                </tr>
-            </tbody>
-        </table>
+    <a href="d.php" class="button">see orders</a>
     </div>
 
     <div id="users" class="card">
