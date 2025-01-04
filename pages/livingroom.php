@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bed Room</title>
+	<title>Living Room</title>
 	<link href="../bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet" >
 </head>
 <body>
@@ -60,7 +60,7 @@
   
     
   </div>
-    <h1>Bed Room Furniture</h1>
+    <h1>Living Room Furniture</h1>
 	<div class="row">	
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
