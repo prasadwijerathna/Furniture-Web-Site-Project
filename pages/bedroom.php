@@ -86,14 +86,14 @@
     <div class="card h-100">
       <img src="../images/Dining/willow.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Willow Dining Suite (09 Piece)</b></h5>
-        <p class="card-text">Add colour to your bonding family gatherings with a brilliantly crafted 9 piece dining table set. The impeccable finish of the tabletop with pleasing triangular shaped legs will showcase absolute fascination.</p>
+        <h4 class="card-title"><b>Regent Bedside Rack – KCRE 001</b></h5>
+        <p class="card-text">Handy stand made of easy to clean scratch resistant materials to hold a night lamp just beside your bed. Additional shelf will hold your favourite magazine in a conveniently accessible height.</p>
         <p><b><i>Warranty</i></b>
       	<ul>
       		<li>3 Year comprehensive warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul></p><b><i>Dimension</i></b>
-		<ul><li>Table : Length – 243cm | Width – 121.5cm | Height – 78cm</li>
+		<ul><li>Length – 40cm | Width – 32cm | Height – 50cm</li>
 		</ul>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
@@ -107,8 +107,8 @@
     <div class="card h-100">
       <img src="../images/Dining/nevada.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Nevada Dining Suite</b></h5>
-        <p class="card-text">Create unique experiences in your family get-togethers with the precisely finished vast spaciousness of the Nevada 9 piece dining suite. Thick tabletop with bobbin patterned and tapered legs brings a satisfactory feel where the large fabric chairs with curvy backrests exhibits classiness..</p>
+        <h4 class="card-title"><b>Ornate 2 Door Wardrobe (KWO 002)</b></h5>
+        <p class="card-text">Impress your room’s beauty with a dark walnut colour shade. Sturdy development with scratch resistant melamine faced surfaces will let you experience a superior finish. Chrome touched handles stands out presenting a contrastive look.</p>
         <p><b><i>Warranty</i></b>
       	<ul>
       		<li>2 year comprehensive Warranty</li>
@@ -128,14 +128,13 @@
     <div class="card h-100" style="height: 600px">
       <img src="../images/Dining/cbint.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Cabinet</b></h5>
-        <p class="card-text">Spacious top with a guard rail becomes a great place to arrange your beloved picture frames. Shelves with glass doors, side drawers and cupboards will permit a clean arrangement to your finest crockery and cutlery.</p>
+        <h4 class="card-title"><b>Spring Mattress</b></h5>
+        <p class="card-text">Give yourself the relaxation that you deserve the most with Classic 7 mattress. Careful selection of suitable springs will ensure comforting support in every posture. Admirable tailoring of the soothing upholstery will usher you to a blissful night’s sleep.</p>
         <p><b><i>Warranty</i></b>
         <ul>
-          <li>3 Year comprehensive warranty</li>
-          <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul></p><b><i>Dimensions</i></b>
-    <ul><li>Length – 150cm | Width – 40cm | Height – 90cm</li>
+          <li>15 Year Warranty for spring structure</li>
+          <li>5 Year Warranty for foam layers.</li>
+    </ul></p>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
