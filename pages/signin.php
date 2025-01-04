@@ -92,7 +92,7 @@
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
-            <button type="submit" class="btn">Sign In</button>
+            <button type="submit" class="btn" href="payment.php">Sign In</button>
             <p class="error" id="errorMessage"></p>
         </form>
         <a href="../public/signup.php">don't have account?</a>
