@@ -121,7 +121,7 @@
 				
 		</ul><br>
 		<P><b>RS:97,975.00/=  Only</b></P>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -145,7 +145,7 @@
     <ul><li>Length – 280cm | Width – 225cm | Height – 77cm</li></ul>
     <br>
     	<P><b>RS:66,170.00/=  Only</b></P><br>
-    </ul><a href="#" class="btn btn-primary">Buy Now</a>
+    </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
 
@@ -168,7 +168,7 @@
     <ul><li>Length – 132cm | Width – 76cm | Height – 78cm</li>
         </ul>
         <P><b>RS:37,175.00/=  Only</b></P>
-    <a href="#" class="btn btn-primary">Buy Now</a></div>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
       </div>
@@ -189,7 +189,7 @@
         
     </ul><br>
     <P><b>RS:98,275.00/=  Only</b></P><br><br><br><br><br><br><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -213,7 +213,7 @@
     <br><br><br>
     <P><b>RS:70,000.00/=  Only</b></P>
     <br><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -251,7 +251,7 @@
      </ul><br>
     <P><b>RS:328,175.00/=  Only</b></P>
     <br><br><br>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
