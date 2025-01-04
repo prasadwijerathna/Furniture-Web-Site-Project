@@ -65,7 +65,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/regand.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/regand.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Regent Bedroom Suite</b></h5>
         <p class="card-text">Satisfaction of great simplicity is achieved in the development of Regent bedroom suite. Fine architecture of the bed that ensures lasting strength and the wardrobe design will provide sufficient space for your belongings. Moreover, the tall mirror dressing table will improve stylishness of your room thus giving you the best viewing angle..</p>
@@ -84,7 +84,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/willow.png" class="card-img-top" alt="...">
+      <img src="../images/bedroom/storage.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Felicia Storage Bed</b></h5>
         <p class="card-text">Turn the unused space underneath your bed to a spacious storage while enjoying the aesthetics of the design. Precisely planned structure will ensure noise free peacefulness whereas the storage compartments will promise you a clutter free arrangement.</p>
@@ -103,9 +103,9 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/nevada.png" class="card-img-top" alt="...">
+      <img src="../images/bedroom/cupboard.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Ornate 2 Door Wardrobe (KWO 002)</b></h5>
+        <h4 class="card-title"><b>Ornate 2 Door Wardrobe</b></h5>
         <p class="card-text">Impress your room’s beauty with a dark walnut colour shade. Sturdy development with scratch resistant melamine faced surfaces will let you experience a superior finish. Chrome touched handles stands out presenting a contrastive look.</p>
         <p><b><i>Warranty</i></b>
       	<ul>
@@ -124,7 +124,7 @@
  
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/cbint.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/mettras.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Spring Mattress</b></h5>
         <p class="card-text">Give yourself the relaxation that you deserve the most with Classic 7 mattress. Careful selection of suitable springs will ensure comforting support in every posture. Admirable tailoring of the soothing upholstery will usher you to a blissful night’s sleep.</p>
@@ -144,7 +144,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/pantry.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/iron.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Foldable Ironing Board</b></h5>
         <p class="card-text">Strong collapsible iron table fabricated with powder coated steel tubes for a lasting impression. Finely padded board will allow easy ironing with the convenient holder. Height adjustment will permit you to set up your preferable height where the anti-slip bushes will ensure a steady posture.</p>
@@ -161,7 +161,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/cabinet.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/modular.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b> Modular Wardrobe</b></h5>
         <p class="card-text">Compliment your room’s interior with a modern touch by introducing latest modular wardrobes. Satisfactory tailor made manufacturing with finest materials will fulfill your desired interior taste.</p>
@@ -182,7 +182,7 @@
 
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/wooden.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/dressing-table.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Carvin Dressing Table</b></h5>
         <p class="card-text">Eminent creation with modern edge thinking combined with a classical sense. Top of the range tall mirror will allow purest projection whereas especially designed side mounted glass cabinet will give your branded products a visible arrangement.</p>
@@ -200,7 +200,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/leyon.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/shoe-rack.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Shoe Rack</b></h5>
         <p class="card-text">Appealing shoe rack design produced with scratch resistant materials to arrange your beautiful shoe collection tidily in place. Scratch proof surfaces will lead to a lasting and a clean presentation.</p>
@@ -218,7 +218,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/metal.jpg" class="card-img-top" alt="...">
+      <img src="../images/bedroom/bedsiderack.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Clothes Rack</b></h5>
         <p class="card-text">Fine built cloth rack with top grade stainless steel tubes for improved durability combined with a shiny presentation.</p>
