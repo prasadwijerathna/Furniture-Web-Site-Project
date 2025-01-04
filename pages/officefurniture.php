@@ -232,7 +232,7 @@
        <li>KCF 002 – Length – 234cm | Width – 80cm | Height – 76.5cm</li> 
     </ul>
     <P><b>RS:584,250.00/=  Only</b></P>
-    <a href="#" class="btn btn-primary">Buy Now</a>
+    <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
