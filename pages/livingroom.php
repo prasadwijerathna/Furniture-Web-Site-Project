@@ -64,7 +64,7 @@
 		<div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/Sentinal.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/Sentinal.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Sentinal Sofa</b></h5>
         <p class="card-text">Aesthetically pleasing creation of refined excellence. Especially formed distinctive arm pattern along with the uniquely tufted vertical lines proudly stands out symbolizing finest craftsmanship. The built to last frame with carved bun footing further adds charisma to your living room.</p>
@@ -83,7 +83,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/baywood.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/baywood.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Baywood Sofa</b></h5>
         <p class="card-text">Complement your living space with a classical touch of a brilliantly crafted wooden sofa. The perfected finish of the wooden ladder pattern frame with appealingly tailored fabric upholstery and the similar type center table will provide a distinctive appearance.</p>
@@ -102,7 +102,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/wallshelf.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/wallshelf.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Wall Shelf</b></h5>
         <p class="card-text">Add colour to your wall with splendid formation of three stepped collectible holder. Precision workmanship is highlighted and the use of scratch resistant materials provides a lasting effect.</p>
@@ -119,7 +119,7 @@
  
   <div class="col">
     <div class="card h-100" style="height: 600px">
-      <img src="../images/Dining/wall unit.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/wall unit.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Wall Unit</b></h5>
         <p class="card-text">An ingenious production that advances your living room’s interior to the next level. The massive architecture of the wall unit allows you to effortlessly house your big screen television whilst neatly organizing other entertainment gadgets in place. Also, equips with ornament racks, cupboards and a cabinet with tempered glass doors for efficient storage management.</p>
@@ -139,7 +139,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/coffeetable.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/coffeetable.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Zurich Coffee Table</b></h5>
         <p class="card-text">Rich in antique taste this marvelous coffee table will introduce classical glamour to your living space. The attractively carved patterns with a clean set of drawers will add unique décor to your living space.</p>
@@ -156,7 +156,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="../images/Dining/single.jpg" class="card-img-top" alt="...">
+      <img src="../images/livingroom/single.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h4 class="card-title"><b>Luis Single Seater</b></h5>
         <p class="card-text">Create a soothing place to read your favourite novel with a cozy single-seater. The fully upholstered and smoothly crafted design will bring snug comfort.</p>
