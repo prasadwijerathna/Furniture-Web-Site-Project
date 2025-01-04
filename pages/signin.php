@@ -95,6 +95,7 @@
             <button type="submit" class="btn">Sign In</button>
             <p class="error" id="errorMessage"></p>
         </form>
+        <a href="../public/signup.php">don't have account?</a>
     </div>
 
     <script>
@@ -124,6 +125,6 @@
 });
 
     </script>
-    <a href="../public/signup.php">don't have account?</a>
+   
 </body>
 </html>
