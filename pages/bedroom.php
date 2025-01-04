@@ -148,8 +148,8 @@
     <div class="card h-100">
       <img src="../images/Dining/pantry.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Pantry Cupboard</b></h5>
-        <p class="card-text">Introduce pure stylishness to your kitchen with Veyron pantry collection crafted from durable marine plywood. Admirable finish of the granite worktop with soft closing cupboards, drawers and lots of optional accessories will allow you to play around effortlessly. Addition of PVC skirting will act against floor contaminants. The collection can be tailor made to meet your heart’s desire.</p>
+        <h4 class="card-title"><b>Foldable Ironing Board</b></h5>
+        <p class="card-text">Strong collapsible iron table fabricated with powder coated steel tubes for a lasting impression. Finely padded board will allow easy ironing with the convenient holder. Height adjustment will permit you to set up your preferable height where the anti-slip bushes will ensure a steady posture.</p>
       <p><b><i>Warranty</i></b>
         <ul>
           <li>3 Year comprehensive warranty</li>
@@ -165,16 +165,13 @@
     <div class="card h-100">
       <img src="../images/Dining/cabinet.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Cabinet</b></h5>
-        <p class="card-text">Wonderful development with elevated glass cupboards to showcase your finest articles in a neat arrangement. Melamine finished cupboards and drawers with a top shelf will house your best crockery collection.</p>
+        <h4 class="card-title"><b> Modular Wardrobe</b></h5>
+        <p class="card-text">Compliment your room’s interior with a modern touch by introducing latest modular wardrobes. Satisfactory tailor made manufacturing with finest materials will fulfill your desired interior taste.</p>
         <p><b><i>Warranty</i></b>
         <ul>
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul></p><b><i>Dimensions</i></b>
-    <ul><li>Length – 121cm | Width – 40cm | Height – 191cm</li>
-        
-    </ul>
+    </ul></p>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -189,7 +186,7 @@
     <div class="card h-100" style="height: 600px">
       <img src="../images/Dining/wooden.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h4 class="card-title"><b>Caplin Wooden Dining Chair</b></h5>
+        <h4 class="card-title"><b>Carvin Dressing Table</b></h5>
         <p class="card-text">Beautiful vertical slat backrest with a slight curve for a snug fit. Clean treated wood design will give you a compassionate feel where the fabric upholstered seat with soft padding provides relaxed seating.</p>
         <p><b><i>Warranty</i></b>
         <ul>
