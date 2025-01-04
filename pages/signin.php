@@ -101,7 +101,22 @@
     
 <?php
 
-require_once '../php/functions/dbconf.php';
+require_once '../public/DBconnect.php';
+
+function addData($connect,$email,$password){
+    try {
+        $sql = "INSERT INTO customer VALUES ('$email','$password')  ";
+
+    $result = mysqli_query($connect,$sql);
+    if ($result) {
+        //echo "New customer record created successfully!";
+    }else{
+        die("Error".mysqli_error($connect));
+    }
+    } catch (Exception $e) {
+        die($e->getMessage());
+    }
+}
 
 try{if(isset($_POST['submit'])){
     $name = $_POST['username'];
