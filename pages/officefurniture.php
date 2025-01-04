@@ -77,7 +77,7 @@
 		<ul><li>KET 006 – Length – 260cm | Width – 210cm | Height – 75cm</li>	
 		</ul>
 		<P><b>RS:123,000.00/=  Only</b></P>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -98,7 +98,7 @@
 		<ul><li>Length – 274cm | Width – 37cm | Height – 199cm</li>
 		</ul>
 		<P><b>RS:197,275.00/=  Only</b></P><br>
-		<a href="#" class="btn btn-primary">Buy Now</a>
+		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
       <div class="card-footer">
