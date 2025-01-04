@@ -83,7 +83,7 @@
 <body>
     <div class="signin-container">
         <h1>Sign In</h1>
-        <form id="signinForm">
+        <form id="signinForm" method="post" action="signin.php">
             <div class="form-group">
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" placeholder="Enter your email" required>
@@ -92,7 +92,7 @@
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
-            <button type="submit" class="btn" >Sign In</button>
+            <button type="submit" class="btn" name="submit">Sign In</button>
             <p class="error" id="errorMessage"></p>
         </form>
         <a href="../public/signup.php">don't have account?</a>
@@ -103,44 +103,39 @@
 
 require_once '../public/DBconnect.php';
 
-function addData($connect,$email,$password){
+function getData($connect,$email,$password){
     try {
-        $sql = "INSERT INTO customer VALUES ('$email','$password')  ";
+        $sql = "select password from customer where email='$email'";
 
-    $result = mysqli_query($connect,$sql);
-    if ($result) {
-        //echo "New customer record created successfully!";
-    }else{
-        die("Error".mysqli_error($connect));
-    }
+            
+        $result = mysqli_query($connect,$sql);
+
+        $row = mysqli_fetch_assoc($result);
+        $data = $row['password'];
+
+        if($password == $data){
+            echo "<script>
+                        document.getElementById('loginForm').reset();
+                    window.open('payment/php ', '_blank');  
+                    window.location.href = 'index.php'; 
+                        </script>";
+        }else{
+            echo "<script>
+                    alert('Password is incorrect! Try Again');
+                    document.getElementById('loginForm').reset();
+                </script>";
+        }
     } catch (Exception $e) {
         die($e->getMessage());
     }
 }
 
 try{if(isset($_POST['submit'])){
-    $name = $_POST['username'];
+    $name = $_POST['email'];
     $password = $_POST['password'];
 
-    $sql="SELECT password FROM customers WHERE name='$name'";
+    getData($connect,$name,$password);
 
-    $result = mysqli_query($connect,$sql);
-
-    $row = mysqli_fetch_assoc($result);
-    $hash = $row['password'];
-
-    if(password_verify($password,$hash)){
-        echo "<script>
-                document.getElementById('loginForm').reset();
-                window.open('../php/dashboard.php', '_blank');  
-                window.location.href = 'index.php'; 
-            </script>";
-    }else{
-        echo "<script>
-                alert('Password is incorrect! Try Again');
-                document.getElementById('loginForm').reset();
-            </script>";
-    }
 }
 }catch(Exception $e)
 {}
