@@ -75,7 +75,7 @@
       		<li>3 Year Warranty for Wardrobe,Dressing Table,Dressing Stool & Bedside Rack.</li>
             <li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:55,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -94,7 +94,7 @@
       		<li>5 Year Warranty for bed</li>
       		<li>1 Year Warranty for bed mechanism.</li>
 		</ul></p><br><br><br><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:60,500.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
@@ -114,7 +114,7 @@
       		<li>2 year comprehensive Warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:45,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -136,7 +136,7 @@
           <li>15 Year Warranty for spring structure</li>
           <li>5 Year Warranty for foam layers.</li>
     </ul></p>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:30,000.00/=  Only</b></P>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
