@@ -106,7 +106,7 @@
       <div class="card-body">
         <h4 class="card-title"><b>Wall Shelf</b></h5>
         <p class="card-text">Add colour to your wall with splendid formation of three stepped collectible holder. Precision workmanship is highlighted and the use of scratch resistant materials provides a lasting effect.</p>
-        <br><br>
+        <br><br><br><br>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
