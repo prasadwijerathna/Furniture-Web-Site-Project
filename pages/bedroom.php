@@ -75,10 +75,11 @@
       		<li>3 Year Warranty for Wardrobe,Dressing Table,Dressing Stool & Bedside Rack.</li>
             <li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 22 days ago</small>
       </div>
     </div>
   </div>
@@ -93,11 +94,12 @@
       		<li>5 Year Warranty for bed</li>
       		<li>1 Year Warranty for bed mechanism.</li>
 		</ul></p>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 20 days ago</small>
       </div>
     </div>
   </div>
@@ -112,10 +114,11 @@
       		<li>2 year comprehensive Warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul><br><br>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 19 days ago</small>
       </div>
     </div>
   </div>
@@ -133,12 +136,13 @@
           <li>15 Year Warranty for spring structure</li>
           <li>5 Year Warranty for foam layers.</li>
     </ul></p>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
 
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 17 days ago</small>
       </div>
     </div>
   </div>
@@ -153,9 +157,10 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 15 days ago</small>
       </div>
     </div>
   </div>
