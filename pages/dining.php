@@ -76,7 +76,7 @@
 		</ul></p><b><i>Dimensions</i></b>
 		<ul><li>Table : Length – 122cm | Width – 76cm | Height – 77cm</li>
 		</ul>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:95,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -97,7 +97,7 @@
 		</ul></p><b><i>Dimension</i></b>
 		<ul><li>Table : Length – 243cm | Width – 121.5cm | Height – 78cm</li>
 		</ul>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:85,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
@@ -117,7 +117,7 @@
       		<li>2 year comprehensive Warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:75,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -140,7 +140,7 @@
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p><b><i>Dimensions</i></b>
     <ul><li>Length – 150cm | Width – 40cm | Height – 90cm</li>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:85,000.00/=  Only</b></P>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
@@ -161,7 +161,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:180,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 3 mins ago</small>
@@ -204,7 +204,7 @@
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br><br><br><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:8,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -223,7 +223,7 @@
           <li>2 year comprehensive Warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:130,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -245,7 +245,7 @@
     <ul><li>Table : Length – 76.2cm | Width – 76.2cm | Height – 76.2cm</li>
         
     </ul><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:45,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
