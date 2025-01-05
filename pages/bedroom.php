@@ -170,10 +170,11 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 14 days ago</small>
       </div>
     </div>
   </div>
@@ -191,10 +192,11 @@
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br><br><br><br><br>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 12 days ago</small>
       </div>
     </div>
   </div>
@@ -209,10 +211,11 @@
           <li>2 year comprehensive Warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 9 days ago</small>
       </div>
     </div>
   </div>
@@ -227,10 +230,11 @@
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p><br><br>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 8 days ago</small>
       </div>
     </div>
 
