@@ -74,7 +74,7 @@
       		<li>15 Year Warranty for bed</li>
       		<li>3 Year Warranty for Wardrobe,Dressing Table,Dressing Stool & Bedside Rack.</li>
             <li>Warranty Covers Only Manufacturing Defects.</li>
-		</ul>
+		</ul><br><br>
     <br><P><b>RS:90,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
@@ -93,7 +93,7 @@
       	<ul>
       		<li>5 Year Warranty for bed</li>
       		<li>1 Year Warranty for bed mechanism.</li>
-		</ul></p>
+		</ul></p><br><br><br><br><br>
     <br><P><b>RS:90,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
@@ -157,7 +157,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:8,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 15 days ago</small>
@@ -175,7 +175,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:130,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -197,7 +197,7 @@
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br><br><br><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    <br><P><b>RS:40,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -215,8 +215,8 @@
         <ul>
           <li>2 year comprehensive Warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    </ul><br><br><br><br><br>
+    <br><P><b>RS:8,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -234,8 +234,8 @@
         <ul>
           <li>2 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul></p><br><br>
-    <br><P><b>RS:90,000.00/=  Only</b></P>
+    </ul></p><br><br><br><br><br><br><br>
+    <br><P><b>RS:10,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
