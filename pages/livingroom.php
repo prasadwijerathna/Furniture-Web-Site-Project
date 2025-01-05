@@ -91,7 +91,7 @@
       	<ul>
       		<li>3 Year comprehensive warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
-		</ul></p>
+		</ul></p><br><br>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
