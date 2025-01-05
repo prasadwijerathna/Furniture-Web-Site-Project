@@ -147,7 +147,7 @@
         <ul>
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul><br><br>
+    </ul><br><br><br>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 7 days ago</small>
@@ -164,7 +164,7 @@
         <ul>
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
-    </ul></p><br><br>
+    </ul></p><br><br><br><br>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
