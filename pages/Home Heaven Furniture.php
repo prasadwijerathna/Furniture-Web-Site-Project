@@ -171,7 +171,7 @@
     <br>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 1 hour ago</small>
       </div>
     </div>
   </div>
@@ -192,7 +192,7 @@
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 5 hour ago</small>
       </div>
     </div>
   </div>
@@ -217,7 +217,7 @@
       </div>
 
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 10 hour ago</small>
       </div>
     </div>
   </div>
@@ -234,7 +234,7 @@
     </ul><P><b>RS:870,000.00/=  Only</b></P><br><br><br>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 12 hour ago</small>
       </div>
     </div>
   </div>
