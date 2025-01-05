@@ -68,7 +68,7 @@
       <div class="card-body">
         <h4 class="card-title"><b>Sentinal Sofa</b></h5>
         <p class="card-text">Aesthetically pleasing creation of refined excellence. Especially formed distinctive arm pattern along with the uniquely tufted vertical lines proudly stands out symbolizing finest craftsmanship. The built to last frame with carved bun footing further adds charisma to your living room.</p>
-		<p><b><i>Warranty</i></b>
+		<p><b><i>Warranty</i></b> 
       	<ul>
       		<li>10 Years for Wooden Structure.</li>
       		<li>3 Years for Fabric Upholstery and Cushions.</li>
@@ -77,7 +77,7 @@
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 12 days ago</small>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@
     <br>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 10 days ago</small>
       </div>
     </div>
   </div>
@@ -110,7 +110,7 @@
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 9 days ago</small>
       </div>
     </div>
   </div>
@@ -133,7 +133,7 @@
       </div>
 
       <div class="card-footer">
-        <small class="text-body-secondary">Last updated 3 mins ago</small>
+        <small class="text-body-secondary">Last updated 8 days ago</small>
       </div>
     </div>
   </div>
