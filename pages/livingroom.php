@@ -74,6 +74,7 @@
       		<li>3 Years for Fabric Upholstery and Cushions.</li>
             <li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul>
+    <br><P><b>RS:130,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -92,6 +93,7 @@
       		<li>3 Year comprehensive warranty</li>
       		<li>Warranty Covers Only Manufacturing Defects.</li>
 		</ul></p><br><br>
+    <br><P><b>RS:110,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
     <br>
       </div>
@@ -107,6 +109,7 @@
         <h4 class="card-title"><b>Wall Shelf</b></h5>
         <p class="card-text">Add colour to your wall with splendid formation of three stepped collectible holder. Precision workmanship is highlighted and the use of scratch resistant materials provides a lasting effect.</p>
         <br><br><br><br>
+        <br><P><b>RS:8,000.00/=  Only</b></P>
 		<a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">
@@ -128,6 +131,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p>
+    <br><P><b>RS:90,000.00/=  Only</b></P>
     </ul><a href="signin.php" class="btn btn-primary">Buy Now</a>
 
       </div>
@@ -148,6 +152,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul><br><br><br>
+    <br><P><b>RS:35,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a></div>
       <div class="card-footer">
         <small class="text-body-secondary">Last updated 7 days ago</small>
@@ -165,6 +170,7 @@
           <li>3 Year comprehensive warranty</li>
           <li>Warranty Covers Only Manufacturing Defects.</li>
     </ul></p><br><br><br><br>
+    <br><P><b>RS:15,000.00/=  Only</b></P>
     <a href="signin.php" class="btn btn-primary">Buy Now</a>
       </div>
       <div class="card-footer">

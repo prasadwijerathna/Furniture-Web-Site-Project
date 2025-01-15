@@ -143,7 +143,8 @@ function getData($connect,$email,$password){
     }
 }
 
-try{if(isset($_POST['submit'])){
+try{
+    if(isset($_POST['submit'])){
     $name = $_POST['email'];
     $password = $_POST['password'];
 
