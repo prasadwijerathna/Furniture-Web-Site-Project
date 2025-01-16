@@ -106,7 +106,7 @@
             <button type="submit" class="sign-in-button" name="submit">Sign In</button>
         </form>
         <div class="additional-links">
-            <p><a href="#">Forgot your password?</a></p>
+            
             <p><a href="../public/signup.php">Create an account</a></p>
         </div>
     </div>
