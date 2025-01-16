@@ -118,26 +118,45 @@ require_once '../public/DBconnect.php';
 
 function getData($connect,$email,$password){
     try {
-        $sql = "select password from customer where email='$email'";
+        $sql = "select email,password from customer where email='$email'";
 
             
         $result = mysqli_query($connect,$sql);
 
         $row = mysqli_fetch_assoc($result);
-        $data = $row['password'];
+        $countrec = mysqli_num_rows($result);
+        $uname=$row['email'];
+        $pword=$row['password'];
+        
+        if($countrec == 1){
+            if($uname == 'admin@gmail.com' && $password == $pword){
+                echo "<script>
+               
+                            window.open('../public/admin.php ', '_blank');  
+                            window.location.href = 'Home Heaven Furniture.php' 
+                                </script>";
 
-        if($password == $data){
+            }
+            else if($password == $pword){
             echo "<script>
                
                     window.open('payment.php ', '_blank');  
                     window.location.href = 'Home Heaven Furniture.php' 
                         </script>";
-        }else{
-            echo "<script>
-                    alert('Password is incorrect! Try Again');
-                    document.getElementById('loginForm').reset();
-                </script>";
+            }else{
+                echo "<script>
+                        alert('Password is incorrect! Try Again');
+                        document.getElementById('loginForm').reset();
+                    </script>";
+            }
+            
         }
+        
+        
+        
+
+
+     
     } catch (Exception $e) {
         die($e->getMessage());
     }
