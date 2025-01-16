@@ -317,7 +317,7 @@
         <li><a href="#home" style="color: white; text-decoration: none;">Home</a></li>
         <li><a href="#about" style="color: white; text-decoration: none;">About Us</a></li>
         <li><a href="#arrival" style="color: white; text-decoration: none;">New arrival</a></li>
-        <li><a href="contact.html" style="color: white; text-decoration: none;">Contact Us</a></li>
+        <li><a href="../public/contact.php" style="color: white; text-decoration: none;">Contact Us</a></li>
       </ul>
 
       <div style="padding: 20px; text-align: center; background-color:black;">
