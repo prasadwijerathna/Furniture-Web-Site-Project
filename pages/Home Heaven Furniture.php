@@ -347,7 +347,7 @@
     <!-- Contact Info -->
     <div style="flex: 1; padding: 10px;">
       <h4>Contact Us</h4>
-      <p>Email: <a href="#" style=color: white;">homeheaven@gmail.com</a></p>
+      <p>Email: <a href="#" style="text-transform:lowercase";color: white;">homeheaven@gmail.com</a></p>
       <p>Tel : +94 71 411 67 43</p>
       <p>whatsapp : +94 70 322 34 56</p>
     </div>
