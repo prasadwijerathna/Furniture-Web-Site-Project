@@ -14,7 +14,7 @@ if ($conn->connect_error) {
 }
 
 // Fetch data from the table
-$sql = "SELECT * FROM employees";
+$sql = "SELECT * FROM contactus";
 $result = $conn->query($sql);
 ?>
 <!DOCTYPE html>
