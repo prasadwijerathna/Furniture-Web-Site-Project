@@ -316,7 +316,7 @@
       <ul style="list-style: none; padding: 0;">
         <li><a href="#home" style="color: white; text-decoration: none;">Home</a></li>
         <li><a href="#about" style="color: white; text-decoration: none;">About Us</a></li>
-        <li><a href="#arrival" style="color: white; text-decoration: none;">New arrival</a></li>
+        <li><a href="#arrival" style="color: white; text-decoration: none;">New arrivals</a></li>
         <li><a href="../public/contact.php" style="color: white; text-decoration: none;">Contact Us</a></li>
       </ul>
 
@@ -347,7 +347,7 @@
     <!-- Contact Info -->
     <div style="flex: 1; padding: 10px;">
       <h4>Contact Us</h4>
-      <p>Email: <a href="mailto:info@mywebsite.com" style="color: white;">homeheaven@gmail.com</a></p>
+      <p>Email: <a href="#" style=color: white;">homeheaven@gmail.com</a></p>
       <p>Tel : +94 71 411 67 43</p>
       <p>whatsapp : +94 70 322 34 56</p>
     </div>
