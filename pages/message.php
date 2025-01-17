@@ -50,16 +50,16 @@ $result = $conn->query($sql);
             <th>ID</th>
             <th>Name</th>
             <th>Position</th>
-            <th>Salary</th>
+           
         </tr>
         <?php
         if ($result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
                 echo "<tr>
-                        <td>{$row['id']}</td>
-                        <td>{$row['name']}</td>
-                        <td>{$row['position']}</td>
-                        <td>{$row['salary']}</td>
+                        <td>{$row['username']}</td>
+                        <td>{$row['email']}</td>
+                        <td>{$row['message']}</td>
+                       
                       </tr>";
             }
         } else {
