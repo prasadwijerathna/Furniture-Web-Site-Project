@@ -1,3 +1,8 @@
+
+<?php
+require_once '../public/DBconnect.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,6 +109,7 @@
                 <input type="password" id="password" name="password" placeholder="Enter your password" required>
             </div>
             <button type="submit" class="sign-in-button" name="submit">Sign In</button>
+            <?php getData($connect); ?>
         </form>
         <div class="additional-links">
             
@@ -114,10 +120,15 @@
     
 <?php
 
-require_once '../public/DBconnect.php';
 
-function getData($connect,$email,$password){
+function getData($connect){
     try {
+
+        if(isset($_POST['submit'])){
+
+            $email = $_POST['email'];
+            $password=$_POST['password'];
+
         $sql = "select email,password from customer where email='$email'";
 
             
@@ -127,37 +138,43 @@ function getData($connect,$email,$password){
         $countrec = mysqli_num_rows($result);
         $uname=$row['email'];
         $pword=$row['password'];
+
+        //echo $pword;
         
-        if($countrec == 1){
-            if($uname == 'admin@gmail.com' && $password == $pword){
-                echo "<script>
+            if($email == 'admin@gmail.com' && $password == $pword){
+
+                header("Location:../public/admin.php");
+                // echo "<script>
                
-                            window.open('../public/admin.php ', '_blank');  
-                            window.location.href = 'Home Heaven Furniture.php' 
-                                </script>";
+                //             window.open('../public/admin.php ', '_blank');  
+                //             window.location.href = 'payment.php' 
+                //                 </script>";
 
             }
-            else if($password == $pword){
-            echo "<script>
+            else if($uname == $email && $password == $pword){
+
+                header("Location:payment.php");
+            // echo "<script>
                
-                    window.open('payment.php ', '_blank');  
-                    window.location.href = 'Home Heaven Furniture.php' 
-                        </script>";
+            //         window.open('payment.php ', '_blank');  
+            //         window.location.href = 'Home Heaven Furniture.php' 
+            //             </script>";
             }else{
                 echo "<script>
                         alert('Password is incorrect! Try Again');
                         document.getElementById('loginForm').reset();
                     </script>";
             }
-            
-        }
+        
+    
         
         
         
 
 
      
-    } catch (Exception $e) {
+    } 
+}catch (Exception $e) {
         die($e->getMessage());
     }
 }

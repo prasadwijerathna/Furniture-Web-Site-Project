@@ -211,7 +211,7 @@ $resultuser = $conn->query($sql2);
             ?>
             </div>
     </div>
-
+    <div>
     <h3>Manage Orders</h3>
     <div id="orders" class="card">
        
@@ -247,6 +247,11 @@ $resultuser = $conn->query($sql2);
     <?php $conn->close(); ?>
     </div>
 </div>
+<h3>Messages</h3>
+    <div id="orders" class="card">
+       
+    <a href="../pages/message.php" class="button">see messages</a>
+    </div>
 
 </body>
 </html>
